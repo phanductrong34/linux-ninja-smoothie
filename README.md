@@ -1,6 +1,6 @@
 # ninja-smoothies
 
-> A Vue.js project
+> A Vue.js project for Linux and open-sources software course
 
 ## Build Setup
 
